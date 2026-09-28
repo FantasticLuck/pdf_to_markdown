@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.*.pdf_to_markdown.work/
+
+# PDF 原件及转换输出
+*.pdf
+*.txt
+!requirements.txt
+*.md
+!README.md
